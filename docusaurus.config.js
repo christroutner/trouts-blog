@@ -1,20 +1,20 @@
-// @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
+/*
+  Site Configuration
+*/
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-/** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Trouts Blog',
+  tagline: 'Trouts Uncensorable Blog',
+  url: 'https://troutsblog.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'christroutner', // Usually your GitHub org/user name.
+  projectName: 'trouts-blog', // Usually your repo name.
 
   presets: [
     [
