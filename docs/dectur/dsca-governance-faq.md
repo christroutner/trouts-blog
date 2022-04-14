@@ -9,7 +9,7 @@ sidebar_position: 2
 - BOD - Board of Directors
 - CC&Rs - Covenants, Conditions & Restrictions
 
-All documents are available [here](/research/decatur/public-docs/).
+All documents are available [here](/docs/dectur/dsca-governing-documents).
 
 ## Governance - Frequently Asked Questions
 
