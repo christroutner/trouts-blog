@@ -6,13 +6,13 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 const config = {
-  title: 'Trouts Blog',
-  tagline: 'Trouts Uncensorable Blog',
+  title: 'Trout\'s Blog',
+  tagline: 'A Place for Trout to Collect His Thoughts',
   url: 'https://troutsblog.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'christroutner', // Usually your GitHub org/user name.
   projectName: 'trouts-blog', // Usually your repo name.
 
@@ -24,13 +24,13 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/christroutner/trouts-blog/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/christroutner/trouts-blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -43,21 +43,21 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Trout\'s Blog',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.png',
         },
         items: [
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Research',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/christroutner/trouts-blog',
             label: 'GitHub',
             position: 'right',
           },
@@ -67,46 +67,42 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Old Site',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Old Trout\'s Blog',
+                href: 'https://bafybeicesmklvrh6a32ifzn75rar3ts3hzybojpztbtqamnuyl7r4nnsoi.ipfs.dweb.link/',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'This Site',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Research',
+                href: '/docs/intro',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'Blog',
+                to: '/blog',
+              }
             ],
           },
           {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'GitHub',
+                href: 'https://github.com/christroutner',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Twitter',
+                href: 'https://twitter.com/christroutner',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Have a nice day!`,
       },
       prism: {
         theme: lightCodeTheme,
