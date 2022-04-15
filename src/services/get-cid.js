@@ -4,8 +4,13 @@
   https://github.com/Permissionless-Software-Foundation/specifications/blob/master/ps001-media-sharing.md
 */
 
-const BchWallet = require('minimal-slp-wallet')
-const BchMessage = require('bch-message-lib')
+// const BchWallet = require('minimal-slp-wallet')
+// const BchMessage = require('bch-message-lib')
+
+class Fake {}
+
+const BchWallet = typeof window !== 'undefined' ? window.SlpWallet : Fake
+const BchMessage = typeof window !== 'undefined' ? window.BchMessage : Fake
 
 class Memo {
   constructor(config) {

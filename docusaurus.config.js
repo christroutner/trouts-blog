@@ -110,6 +110,17 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    scripts: [
+      {
+        src: 'https://unpkg.com/minimal-slp-wallet',
+        async: true,
+      },
+      {
+        src: 'https://unpkg.com/bch-message-lib',
+        async: true,
+      }
+    ]
 };
 
 module.exports = config;

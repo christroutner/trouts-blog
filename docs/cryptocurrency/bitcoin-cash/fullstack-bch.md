@@ -94,8 +94,7 @@ As mentioned at the beginning of this article, indexers are like little search e
 
 A couple widely used, open source indexers are:
 
-- [Blockbook](/research/bitcoin-cash/blockbook)
-- [Bitcore Node](/research/bitcoin-cash/bitcore-node-insight-api)
+- [Fulcrum ElectrumX indexer](https://electrum-cash-protocol.readthedocs.io/en/latest/)
 
 Those links will take you to Docker containers that I maintain for both indexers.
 
@@ -137,7 +136,7 @@ I have <u>not</u> tried out these other REST APIs, but they look interesting:
 
 - Interface with the [OpenBazaar Indexer](https://bchjs.cash/bch-js/index.html#api-OpenBazaar)
 - Works with [SLP tokens](https://bchjs.cash/bch-js/index.html#api-SLP) natively (no external libraries).
-- Includes endpoints for [Blockbook](https://bchjs.cash/bch-js/index.html#api-Blockbook) and [Bitcore](https://bchjs.cash/bch-js/index.html#api-Bitcore) indexers.
+- Includes endpoints for Blockbook and [Bitcore](https://bchjs.cash/bch-js/index.html#api-Bitcore) indexers.
 - Support for BCHD comming soon!
 
 ## Applications
@@ -154,7 +153,7 @@ There is a concept in the startup world of a minimum viable product or MVP. Ther
 
 - Use this [ABC full node Docker container](https://github.com/christroutner/docker-abc). It's the most popular full node implementation, and it's hard to go wrong with that choice.<br /><br />
 
-- Use [Blockbook](/research/bitcoin-cash/blockbook) for your indexer. It has the smallest database and has shown to be the most reliable. [This Docker container](https://github.com/christroutner/docker-ubuntu-blockbook) allows you to run your own BCH version locally.<br /><br />
+- Use Blockbook for your indexer. It has the smallest database and has shown to be the most reliable. [This Docker container](https://github.com/christroutner/docker-ubuntu-blockbook) allows you to run your own BCH version locally.<br /><br />
 
 - If you plan to dip your feet into the world of SLP tokens, then you'll want to run [this Docker container](https://github.com/christroutner/docker-slpdb). It contains everything needed to interact with them.<br /><br />
 

@@ -5,7 +5,7 @@ authors: trout
 tags: [bch, javascript]
 ---
 
-The previous blog post provided a very high-level overview of the [Web 3 Cash Stack architecture](/blog/web-3-cash-stack). This article descends into various implementations of that architecture that I, and other decentralized members of [the PSF](https://psfoundation.cash), are in the process of standing up.
+The previous blog post provided a very high-level overview of the [Web 3 Cash Stack architecture](/blog/web3-cashstack). This article descends into various implementations of that architecture that I, and other decentralized members of [the PSF](https://psfoundation.cash), are in the process of standing up.
 
 ![Implementing the Web 3.0 Cash Stack](./img/web3-realized.png)
 
@@ -55,7 +55,7 @@ An instance of `ipfs-bch-wallet-consumer` is made available as a public API at [
 
 ## Front End
 
-The [Web 3 Cash Stack article](/blog/web-3-cash-stack) introduced four types of use cases:
+The [Web 3 Cash Stack article](/blog/web3-cashstack) introduced four types of use cases:
 
 - Exchanges/Companies
 - Casual Users
