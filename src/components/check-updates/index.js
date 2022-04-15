@@ -6,7 +6,7 @@
 */
 
 import React from 'react'
-import Memo from '../../services/get-cid'
+import Memo from './get-cid'
 
 // The BCH address broadcasting IPFS hashes when updates are made, using the
 // memo.cash protocol.
@@ -31,6 +31,7 @@ class CheckForUpdates extends React.Component {
     try {
       const path = window.location.pathname
 
+      await memo.initialize()
       const hash = await memo.findHash()
 
       if (!hash) {

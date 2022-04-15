@@ -7,24 +7,33 @@
 // const BchWallet = require('minimal-slp-wallet')
 // const BchMessage = require('bch-message-lib')
 
-class Fake {}
-
-const BchWallet = typeof window !== 'undefined' ? window.SlpWallet : Fake
-const BchMessage = typeof window !== 'undefined' ? window.BchMessage : Fake
-
 class Memo {
   constructor(config) {
-    // Throw an error if this class is instantiated without passing a BCH address.
-    if (!config || !config.bchAddr)
-      throw new Error(`Must pass a BCH address to Memo constructor.`)
-    else this.bchAddr = config.bchAddr
+    this.config = config
+  }
 
-    this.wallet = new BchWallet(undefined, {
-      interface: 'consumer-api',
-    })
-    this.bchjs = this.wallet.bchjs
+  async initialize() {
+    try {
+      const BchWallet = typeof window !== 'undefined' ? window.SlpWallet : null
+      const BchMessage = typeof window !== 'undefined' ? window.BchMessage : null
 
-    this.bchMessage = new BchMessage({ wallet: this.wallet })
+      // Throw an error if this class is instantiated without passing a BCH address.
+      if (!this.config || !this.config.bchAddr)
+        throw new Error(`Must pass a BCH address to Memo constructor.`)
+      else this.bchAddr = this.config.bchAddr
+
+      this.wallet = new BchWallet(undefined, {
+        interface: 'consumer-api',
+      })
+      this.bchjs = this.wallet.bchjs
+
+      this.bchMessage = new BchMessage({ wallet: this.wallet })
+    } catch(err) {
+      console.error('Error in get-cid.js/initialize(): ', err.message)
+      console.log('Waiting 5 seconds before trying again.')
+      await this.sleep(5000)
+      this.initialize()
+    }
   }
 
   // Walk the transactions associated with an address until a proper IPFS hash is
@@ -53,6 +62,10 @@ class Memo {
       console.warn(`Could not find IPFS hash in transaction history.`)
       return false
     }
+  }
+
+  sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
   }
 }
 
