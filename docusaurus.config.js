@@ -31,6 +31,7 @@ const config = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/christroutner/trouts-blog/',
+          blogSidebarCount: 'ALL'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -109,6 +110,17 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    scripts: [
+      {
+        src: 'https://unpkg.com/minimal-slp-wallet',
+        async: true,
+      },
+      {
+        src: 'https://unpkg.com/bch-message-lib',
+        async: true,
+      }
+    ]
 };
 
 module.exports = config;
