@@ -33,10 +33,18 @@ sudo usermod -aG docker ${USER}
 [This tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04) shows how to install Docker on a Ubuntu system. It's specifically targeted to Digital Ocean's cloud servers, but should work for any Ubuntnu system.
 
 
-## Install Docker Compose
+## Install Docker Compose (x86 & amd64)
 ```bash
-sudo curl -L https://github.com/docker/compose/releases/download/1.22.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+sudo curl -L https://github.com/docker/compose/releases/download/1.27.4/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
+```
+
+## Install Docker Compose on Raspberry Pi (arm64)
+```bash
+sudo apt-get install -y libffi-dev libssl-dev
+sudo apt-get install -y python3 python3-pip
+sudo apt-get remove python-configparser
+sudo pip3 -v install docker-compose
 ```
 
 [This tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-docker-compose-on-ubuntu-18-04) shows how to install Docker Compose on an Ubuntu system.
