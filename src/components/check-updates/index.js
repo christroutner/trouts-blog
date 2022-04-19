@@ -48,7 +48,7 @@ class CheckForUpdates extends React.Component {
       if (!url.includes(hash)) {
         this.setState({
           // ipfsHashLink: `https://ipfs.io/ipfs/${hash}${path}`,
-          ipfsHashLink: `https://${hash}.ipfs.dweb.link${path}`
+          ipfsHashLink: `https://${hash}.ipfs.dweb.link`
         })
       }
     } catch (err) {
