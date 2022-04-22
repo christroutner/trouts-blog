@@ -154,7 +154,7 @@ If you did not initialize your user correctly, this is where you'll [see a bug](
 
 - [Radicle Documentation](https://docs.radicle.xyz/using-radicle/track-review-merge)
 
-In order to pull changes from the radicle seed node, The URN (DID, ID) of the user who pushed the change needs to be known. Changes can be pulled like this:
+In order to pull changes from the radicle seed node, The URN of the user who pushed the change needs to be known. Changes can be pulled like this:
 
 - `rad track hynfqs458c3whsyb9exnerg7w81hy9za4ogptntc9h84p1s5jfyix4 --seed radicle.fullstackcash.nl`
 
