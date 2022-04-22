@@ -90,7 +90,9 @@ I could then manually set the environment variable:
 In order to initialize radicle-cli, you need to make sure you have `git` v2.34.0 or higher. See the *Stumbling Blocks* section above to install the latest version of `git`.
 
 Initialize your radicle user:
-- `rad auth`
+- `rad auth --init`
+
+Be sure to use the `--init` flag, as there is [currently a bug](https://github.com/radicle-dev/radicle-cli/issues/81) that will prevent you from being able to make commits it you don't.
 
 ## Seed Nodes
 Seed nodes are *always-on* 'servers' that host git repositories. These replace the cloud hosting that GitHub provides. Docker containers for running a seed node are available in the radicle-client-services repo below:
@@ -133,6 +135,9 @@ With the DID of a repository, you can clone it like this:
 - `rad clone rad:git:hnrkjsnux9ns5t4famcga7f4r64a1brh99y1o --seed radicle.fullstackcash.nl`
 
 ## Commiting a Change
+
+- [Official Radicle Documentation](https://docs.radicle.xyz/using-radicle/push/)
+
 After making a change to a cloned repository, the normal workflow with git is the same. However, when running `git commit` is when you'll see errors around authentication and OpenSSH. See the *Stumbling Blocks* section above.
 
 ```bash
@@ -143,10 +148,24 @@ git commit -m "commit message"
 Pushing the commit should work like this:
 - `rad push --seed radicle.fullstackcash.nl`
 
-But it currently errors out. I'm trying to get help from the radicle community via [this GitHub Issue](https://github.com/radicle-dev/radicle-cli/issues/81).
+If you did not initialize your user correctly, this is where you'll [see a bug](https://github.com/radicle-dev/radicle-cli/issues/81).
 
 ## Reviewing and Merging Changes
 
 - [Radicle Documentation](https://docs.radicle.xyz/using-radicle/track-review-merge)
 
-This section will be added, once I can get pushes to work correctly. Right now there is no way to pull in changes from my seed node. Cloning will contain the changes, but existing repos won't pull in the changes.
+In order to pull changes from the radicle seed node, The URN (DID, ID) of the user who pushed the change needs to be known. Changes can be pulled like this:
+
+- `rad track hynfqs458c3whsyb9exnerg7w81hy9za4ogptntc9h84p1s5jfyix4 --seed radicle.fullstackcash.nl`
+
+This will create a branch with the changes pushed by the other user, which can be seed by running `git branch`:
+
+- `peer/trout/master`
+
+Differences can be reviewed like this:
+
+- `git diff master..peer/trout/master`
+
+And the patch can be merged:
+
+- `git merge peer/trout/master`

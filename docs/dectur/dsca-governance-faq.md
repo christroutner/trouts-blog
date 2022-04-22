@@ -42,7 +42,7 @@ Meetings need to be called occasionally for the purpose of changing the bylaws o
 ### How are Dues determined?
 
 #### Old Dues Rules
-Below are rules captured in the bylaws around dues. These rules were invalidated by Washington State law in 2018.
+Below are rules captured in the bylaws around dues. These rules were invalidated by Washington State law in 2018:
 
 The Membership comes together once a year at a special meeting to establish dues for the next year.
 
@@ -65,9 +65,11 @@ Here is a [summary FAQ](https://bafybeibbpq4jnjez7aq5v7jjk6o2kbu42nnldkcerrvcrqw
 - By state law, DSCA dues and special assessments are now required to be assigned to the members without any need for input from the membership. ([RCW 64.90.525](https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.525) paragraph 1 and 3, [RCW 64.38.025](https://app.leg.wa.gov/RCW/default.aspx?cite=64.38.025))
 - As before, if a member does not or cannot pay these dues, then a lien is taken out against your property and you lose the ability to participate in DSCA governance. ([Bylaws](https://bafybeicbnmvttfqui47lsyxfligeerzmsgv2zzu2setyncl52siqxebhjy.ipfs.dweb.link/dsca-bylaws.pdf) Article 8, paragraph 2)
 
-These law changes take power away from the membership and gives it to the board. It sets up an adverserial relationship between the board and the membership. It is incredibly important that the membership vote carefully when electing board members, the inputs to the Reserve Study, and their attitude towards improvements to DSCA, as it directly impacts the amount of dues they will be forced to pay.
+These law changes take power away from the membership and gives it to the board. It sets up an adverserial relationship between the board and the membership, and contradicts the conservative spirit expressed in the wording of the bylaws. It is incredibly important that the membership vote carefully when electing board members, their attitude towards improvements to DSCA, and the inputs to the Reserve Study, as it directly impacts the amount of dues they will be forced to pay.
 
-The Washington State rules around dues make governmence much more complex, because the dollar amount of the DSCA annual budget triggers different legal obligations. My research into DSCAs legal compliance can be found in [DSCA RCW Compliance](/docs/dectur/dsca-rcw-compliance).
+A solution currently being discussed is to set up a permanent budget committee. The board would still be legally required to pass a budget and follow the reserve study, but they can off-load the responsibility to the budget committee. This would allow members to join the committee and have a voice. At the same time, it stops animosity directed toward the board, because they are simply following the input from the budget committee. This is a compromise that mitigates the damage caused by Washington State on the DSCA community culture (expressed in the bylaws).
+
+The Washington State rules around dues make governmence much more complex, because the dollar amount of the DSCA annual budget triggers different legal obligations. My research into DSCAs legal compliance can be found in [DSCA RCW Compliance](/docs/dectur/dsca-rcw-compliance). DSCA needs to seek legal council on these matters, which has not been done.
 
 ### What are the privileges of the President?
 
