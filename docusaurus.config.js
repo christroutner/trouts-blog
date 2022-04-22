@@ -9,7 +9,7 @@ const config = {
   title: 'Trout\'s Blog',
   tagline: 'A Place for Trout to Collect His Thoughts',
   url: 'https://troutsblog.com',
-  baseUrl: '/',
+  baseUrl: '/trouts-blog/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',

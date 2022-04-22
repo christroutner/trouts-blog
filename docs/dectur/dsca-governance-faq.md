@@ -52,16 +52,22 @@ The BOD must establish dues before the year starts.
 
 - [Bylaws](https://bafybeicbnmvttfqui47lsyxfligeerzmsgv2zzu2setyncl52siqxebhjy.ipfs.dweb.link/dsca-bylaws.pdf) Article 8, paragraph 2
 
+Special assessments in excess of $100 must be approved by a majority of the membership.
+
+- [Bylaws](https://bafybeicbnmvttfqui47lsyxfligeerzmsgv2zzu2setyncl52siqxebhjy.ipfs.dweb.link/dsca-bylaws.pdf) Article 8, paragraph 5
+
 #### New Dues Rules
 Here is a [summary FAQ](https://bafybeibbpq4jnjez7aq5v7jjk6o2kbu42nnldkcerrvcrqwaa2g2vl5j3m.ipfs.dweb.link/washington-hoa-budget-law-faq.pdf) of the Washington State laws that went into effect in 2018, which nullified the rules around dues that DSCA had been accustomed to for 50 years. These new rules can be found in [RCW 64.90.525](https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.525). Accord to these new rules:
 
-- By state law, the BOD is now *required* to prepare a Reserve Study.
-- By state law, the BOD is now expected to create a budget that reflects the Reserve Study.
-- By state law, the budget is now passed by the BOD (not the membership), and it’s nearly impossible for the membership to reject the budget.
-- By state law, DSCA dues and special assessments are now required to be assigned to the members without any need for input from the membership.
-- As before, if a member does not or cannot pay these dues, then a lien is taken out against your property and you lose the ability to participate in DSCA governance.
+- By state law, the BOD is now *required* to prepare a Reserve Study. ([RCW 64.90.545](https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.545), paragraph 1)
+- By state law, the BOD is required to create a budget. ([RCW 64.90.525](https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.525) & [RCW 64.38.025](https://app.leg.wa.gov/RCW/default.aspx?cite=64.38.025))
+- By state law, the budget is now passed by the BOD (not the membership), and it’s nearly impossible for the membership to reject the budget. ([RCW 64.90.525](https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.525), paragraph 1a)
+- By state law, DSCA dues and special assessments are now required to be assigned to the members without any need for input from the membership. ([RCW 64.90.525](https://app.leg.wa.gov/RCW/default.aspx?cite=64.90.525) paragraph 1 and 3, [RCW 64.38.025](https://app.leg.wa.gov/RCW/default.aspx?cite=64.38.025))
+- As before, if a member does not or cannot pay these dues, then a lien is taken out against your property and you lose the ability to participate in DSCA governance. ([Bylaws](https://bafybeicbnmvttfqui47lsyxfligeerzmsgv2zzu2setyncl52siqxebhjy.ipfs.dweb.link/dsca-bylaws.pdf) Article 8, paragraph 2)
 
-These law changes take power away from the membership and gives it to the board. It is incredibly important that the membership vote carefully on the inputs to the Reserve Study, as it directly impacts the amount of dues they will be forced to pay.
+These law changes take power away from the membership and gives it to the board. It sets up an adverserial relationship between the board and the membership. It is incredibly important that the membership vote carefully when electing board members, the inputs to the Reserve Study, and their attitude towards improvements to DSCA, as it directly impacts the amount of dues they will be forced to pay.
+
+The Washington State rules around dues make governmence much more complex, because the dollar amount of the DSCA annual budget triggers different legal obligations. My research into DSCAs legal compliance can be found in [DSCA RCW Compliance](/docs/dectur/dsca-rcw-compliance).
 
 ### What are the privileges of the President?
 
