@@ -139,3 +139,14 @@ After making a change to a cloned repository, the normal workflow with git is th
 git add -A
 git commit -m "commit message"
 ```
+
+Pushing the commit should work like this:
+- `rad push --seed radicle.fullstackcash.nl`
+
+But it currently errors out. I'm trying to get help from the radicle community via [this GitHub Issue](https://github.com/radicle-dev/radicle-cli/issues/81).
+
+## Reviewing and Merging Changes
+
+- [Radicle Documentation](https://docs.radicle.xyz/using-radicle/track-review-merge)
+
+This section will be added, once I can get pushes to work correctly. Right now there is no way to pull in changes from my seed node. Cloning will contain the changes, but existing repos won't pull in the changes.
