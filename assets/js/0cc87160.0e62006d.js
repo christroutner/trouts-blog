@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktrouts_blog=self.webpackChunktrouts_blog||[]).push([[2182],{4317:function(t){t.exports=JSON.parse('{"allTagsPath":"/trouts-blog/blog/tags","name":"bch","count":3,"permalink":"/trouts-blog/blog/tags/bch"}')}}]);
