@@ -20,19 +20,15 @@ DSCA has not had paid legal council for some time. With the recent discovery of 
 
 Obtaining legal council, and achieving clarity on some of the legal questions captured on this site, will be my second priority.
 
-## 3. What Are The Rules?
+## 3. Weekly Community Meetings
+
+If I am elected to the Board, I plan to host community Zoom meetings every Monday at 6:30PM (exept when it overlaps with a BOD meeting). It will be open to all DSCA members. Anyone in the community that has a question or concern can come to the meeting, and know that they are being heard by a member of the Board. I will use this time to collect member input and take it to the Board.
+
+## 4. What Are The Rules?
 
 I began this 'Decatur' section of my site for myself initially to answer some of the common questions that I noticed were being asked over-and-over again in BOD meetings. I quickly realized I'd like feedback from others in the community to fine tune our collective understanding. That's why I've structured much of it as a FAQ, using simple language, with footnotes that reference the legal sources.
 
 There has been a lot of discussion among the Board this last year on documenting the processes followed by the board and committees. Getting the new website up was a first step in that direction, but the work of actually documenting our processes still remains to be done. The Decatur section of this site was my own initiative in this work. I want to collaborate with the rest of the community to create polished, official documentation of our processes, so that we all know the 'rules of the game'. Some members have been a part of DSCA since it began, others have just arrived. All have experience and ideas to contribute to make our community stronger and better.
-
-## 4. Volunteer Coordinator
-
-At the beginning of my first 3-year stint on the board, I was approached by a previous board president and asked to take on the task of researching and advocating for a community Care Taker. In the course of research it became clear to me that the overall community did not want a caretaker. As I continued to talk with members, the idea of an Operations Manager came up again and again.  And through even more conversations, the idea has evolved into the concept of a Volunteer Coordinator.
-
-The Volunteer Coordinator would be a seasonal, part-time, paid position. They would report to, and take direction from, the BOD. Members who would like to help the community would have a specific person to rally around. The Volunteer Coordinator would not be responsible for doing the work, but for organizing the work. The goal of the position is to maximize the amount of volunteer labor, and lower the friction of organizing volunteer labor.
-
-I want to continue refining this idea with membership feedback. This idea is still a ways out from being actionable. I want to hear from everyone on this idea, especially anyone who does not like the idea.
 
 ## 5. Gentrification
 
@@ -40,7 +36,10 @@ Gentrification is an influx of new and/or affluent people moving to an area, cau
 
 I've had many conversations within the DSCA community expressing concerns about gentrification. My goal is to continue these conversations, to document all opinions, and to try and help navigate this community within the nuance of gentrification.
 
+## 6. Volunteer Coordinator
 
-## 6. Regular Community Meetings
+At the beginning of my first 3-year stint on the board, I was approached by a previous board president and asked to take on the task of researching and advocating for a community Care Taker. In the course of research it became clear to me that the overall community did not want a caretaker. As I continued to talk with members, the idea of an Operations Manager came up again and again.  And through even more conversations, the idea has evolved into the concept of a Volunteer Coordinator.
 
-If I am elected to the Board, I plan to host community Zoom meetings every Monday at 6:30PM (exept when it overlaps with a BOD meeting). It will be open to all DSCA members. Anyone in the community that has a question or concern can come to the meeting, and know that they are being heard by a member of the Board. I will use this time to collect member input and take it to the Board.
+The Volunteer Coordinator would be a seasonal, part-time, paid position. They would report to, and take direction from, the BOD. Members who would like to help the community would have a specific person to rally around. The Volunteer Coordinator would not be responsible for doing the work, but for organizing the work. The goal of the position is to maximize the amount of volunteer labor, and lower the friction of organizing volunteer labor.
+
+I want to continue refining this idea with membership feedback. This idea is still a ways out from being actionable. I want to hear from everyone on this idea, especially anyone who does not like the idea.
