@@ -20,7 +20,7 @@ DSCA has not had any legal council for some time. With the recent discovery of n
 
 Obtaining legal council, and achieving clarity on some of the legal questions captured on this site will be my second priority.
 
-## 3. Documenting the 'Rules of the Game'
+## 3. What Are The Rules?
 
 This 'Decatur' section of my site started by trying to answer some of the common questions that seem to be asked over-and-over again in BOD meetings. That's why I've structured much of it as a FAQ, using simple language, with footnotes that reference the legal sources.
 
