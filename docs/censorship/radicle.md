@@ -169,3 +169,12 @@ Differences can be reviewed like this:
 And the patch can be merged:
 
 - `git merge peer/trout/master`
+
+## Mirroring GitHub Repositories
+
+The main way I'm using Radicle is to create mirrors of my GitHub repositories. This way, if GitHub ever decides to deplatform cryptocurrency developers, I'll already have work-ready repositories backed up on Radicle. Here is the typical workflow I use to add a repository to GitHub.
+
+- `git clone gh-repo && cd gh-repo`
+- `rad init`
+- `rad push --seed radicle.fullstackcash.nl`
+- `rad push --seed willow.radicle.garden`
