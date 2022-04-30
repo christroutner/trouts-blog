@@ -78,7 +78,7 @@ The Washington State rules around dues make governmence much more complex, becau
 - The President can call a meeting of the membership.
   - [Bylaws](https://bafybeicbnmvttfqui47lsyxfligeerzmsgv2zzu2setyncl52siqxebhjy.ipfs.dweb.link/dsca-bylaws.pdf) Article 4, paragraph 2.
 
-Other than the above two privileges, the President has no more power or influence than the other member of the board.
+Other than the above two privileges, the President has no more power or influence than the other members of the board.
 
 ### What's up with all the sheds?
 
