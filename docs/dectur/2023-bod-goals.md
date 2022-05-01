@@ -6,7 +6,13 @@ sidebar_position: 4
 
 At the 2022 annual meeting, I plan to ask the membership to vote me on to the board of directors (BOD) for Decatur Shores Community Association (DSCA). This page exists to document the goals I hope to achieve in my role as a board member, if I am elected. This page will allow me to share the ideas with the members and receive feedback.
 
-## 1. Business Administrator
+## 1. Weekly Community Meetings
+
+If I am elected to the Board, I plan to host community Zoom meetings every Monday at 6:30PM (exept when it overlaps with a BOD meeting). It will be open to all DSCA members. Anyone in the community that has a question or concern can come to the meeting, and know that they are being heard by a member of the Board. I will use this time to collect member input and take it to the Board.
+
+Not being on the board the last couple years has allowed me to communicate more often with community members, to hear their concerns and confusion. My primary goal in joining the board is to improve communication between the board and the wider membership.
+
+## 2. Business Administrator
 
 DSCA had a business administrator (biz admin) for over a decade, and the organization depended on her to a great degree. She left suddenly due to serious health issues, and the organization has been severely hobbled ever since.
 
@@ -14,15 +20,12 @@ The current BOD has made great strides in procuring a new business administrator
 
 If I am elected to the board, I plan to make finding a new business administrator my number one priority. Currently the Board (through no fault of their own) is limited in their overall effectiveness because they are both trying to run the day-to-day administration of the organization as well as BOD-appropriate projects.
 
-## 2. Legal Council
+## 3. Legal Council
 
 DSCA has not had paid legal council for some time. With the recent discovery of new RCW rules, which potentially [conflict with our bylaws](http://localhost:3000/docs/dectur/dsca-governance-faq#how-are-dues-determined), we are in need of paid and dedicated legal council now more than ever. Every member needs to understand what the 'rules of the game' are.
 
 Obtaining legal council, and achieving clarity on some of the legal questions captured on this site, will be my second priority.
 
-## 3. Weekly Community Meetings
-
-If I am elected to the Board, I plan to host community Zoom meetings every Monday at 6:30PM (exept when it overlaps with a BOD meeting). It will be open to all DSCA members. Anyone in the community that has a question or concern can come to the meeting, and know that they are being heard by a member of the Board. I will use this time to collect member input and take it to the Board.
 
 ## 4. What Are The Rules?
 
