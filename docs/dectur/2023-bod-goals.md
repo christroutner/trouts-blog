@@ -10,7 +10,9 @@ At the 2022 annual meeting, I plan to ask the membership to vote me on to the bo
 
 If I am elected to the Board, I plan to host community Zoom meetings every Monday at 6:30PM (exept when it overlaps with a BOD meeting). It will be open to all DSCA members. Anyone in the community that has a question or concern can come to the meeting, and know that they are being heard by a member of the Board. I will use this time to collect member input and take it to the Board.
 
-Not being on the board the last couple years has allowed me to communicate more often with community members, to hear their concerns and confusion. My primary goal in joining the board is to improve communication between the board and the wider membership.
+Not being on the board the last couple years has allowed me to communicate more often with community members, to hear their concerns and confusion. My primary goal in joining the board is to improve communication between the Board and the wider membership.
+
+I've had several members come to me to voice concerns with Board activity. They've thanked me for representing their view, and being willing to 'ruffle some feathers' where they are not. But no one likes to get their feathers ruffled, and it's my hope that weekly meetings and more fluid communication can deescalate our all-too-frequent dramatic episodes.
 
 ## 2. Business Administrator
 
@@ -18,13 +20,13 @@ DSCA had a business administrator (biz admin) for over a decade, and the organiz
 
 The current BOD has made great strides in procuring a new business administrator this last year. We went from half-consensus of *not* having a business administrator, to allocating a budget for a business administrator next year. Interviews have begun with candidates, and HOA management companies are being researched.
 
-If I am elected to the board, I plan to make finding a new business administrator my number one priority. Currently the Board (through no fault of their own) is limited in their overall effectiveness because they are both trying to run the day-to-day administration of the organization as well as BOD-appropriate projects.
+If I am elected to the board, my highest priority will be continuing the work the Board has started in finding a new business adminstrator. Currently the Board (through no fault of their own) is limited in their overall effectiveness because they are both trying to run the day-to-day administration of the organization as well as BOD-appropriate projects.
 
 ## 3. Legal Council
 
 DSCA has not had paid legal council for some time. With the recent discovery of new RCW rules, which potentially [conflict with our bylaws](http://localhost:3000/docs/dectur/dsca-governance-faq#how-are-dues-determined), we are in need of paid and dedicated legal council now more than ever. Every member needs to understand what the 'rules of the game' are.
 
-Obtaining legal council, and achieving clarity on some of the legal questions captured on this site, will be my second priority.
+Obtaining legal council, and achieving clarity on some of the legal questions captured on this site, will be my next highest priority.
 
 
 ## 4. What Are The Rules?
