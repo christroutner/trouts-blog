@@ -10,9 +10,9 @@ At the 2022 annual meeting, I plan to ask the membership to vote me on to the bo
 
 If I am elected to the Board, I plan to host community Zoom meetings every Monday at 6:30PM (exept when it overlaps with a BOD meeting). It will be open to all DSCA members. Anyone in the community that has a question or concern can come to the meeting, and know that they are being heard by a member of the Board. I will use this time to collect member input and take it to the Board.
 
-Not being on the board the last couple years has allowed me to communicate more often with community members, to hear their concerns and confusion. My primary goal in joining the board is to improve communication between the Board and the wider membership.
+Not being on the board the last couple years has allowed me to communicate more honestly and more often with community members, to hear their concerns and confusion. My primary goal in joining the board is to improve communication between the Board and the wider membership.
 
-I've had several members come to me to voice concerns with Board activity. They've thanked me for representing their view, and being willing to 'ruffle some feathers' where they are not. But no one likes to get their feathers ruffled, and it's my hope that weekly meetings and more fluid communication can deescalate our all-too-frequent dramatic episodes.
+I've heard several members voice concerns to me about Board activity. They've thanked me for representing their view, and being willing to 'ruffle some feathers' when they are not. But no one likes to get their feathers ruffled, and it's my hope that weekly meetings and more fluid communication can deescalate our all-too-frequent dramatic episodes.
 
 ## 2. Business Administrator
 
@@ -31,13 +31,13 @@ Obtaining legal council, and achieving clarity on some of the legal questions ca
 
 ## 4. What Are The Rules?
 
-I began this 'Decatur' section of my site for myself initially to answer some of the common questions that I noticed were being asked over-and-over again in BOD meetings. I quickly realized I'd like feedback from others in the community to fine tune our collective understanding. That's why I've structured much of it as a FAQ, using simple language, with footnotes that reference the legal sources.
+I began this 'Decatur' section of my site for myself, initially to answer some of the common questions that I noticed were being asked over-and-over again in BOD meetings. I quickly realized I'd like feedback from others in the community to fine tune our collective understanding. That's why I've structured much of it as a FAQ, using simple language, with footnotes that reference the legal sources.
 
 There has been a lot of discussion among the Board this last year on documenting the processes followed by the board and committees. Getting the new website up was a first step in that direction, but the work of actually documenting our processes still remains to be done. The Decatur section of this site was my own initiative in this work. I want to collaborate with the rest of the community to create polished, official documentation of our processes, so that we all know the 'rules of the game'. Some members have been a part of DSCA since it began, others have just arrived. All have experience and ideas to contribute to make our community stronger and better.
 
 ## 5. Gentrification
 
-Gentrification is an influx of new and/or affluent people moving to an area, causing sudden changes in and challenges to community norms, expectations, and values (economic, political and social). The long-established population is concerned about affordability and consistency, while the new comers bring new ideas and customs that could add value to our community. Our community can only successfully navigate these changes with frequent, open, and respectful conversations. Rumors, disrespectful social media exchanges, and closed door meetings will not help us find solutions.
+Gentrification is an influx of new and/or affluent people moving to an area, causing sudden changes in and challenges to community norms, expectations, and values (economic, political and social). The long-established population is concerned about affordability and consistency, while the new comers bring new ideas and customs that could add value to our community. Our community can only successfully navigate these changes with frequent, open, and respectful conversations. Rumors, gate-keeping, and closed door meetings will not help us find solutions.
 
 I've had many conversations within the DSCA community expressing concerns about gentrification. My goal is to continue these conversations, to document all opinions, and to try and help navigate this community within the nuance of gentrification.
 
