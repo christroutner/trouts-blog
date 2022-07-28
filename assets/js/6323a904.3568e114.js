@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktrouts_blog=self.webpackChunktrouts_blog||[]).push([[7961],{5100:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","name":"psf","count":1,"permalink":"/blog/tags/psf"}')}}]);
