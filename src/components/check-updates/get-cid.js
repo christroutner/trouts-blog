@@ -46,7 +46,7 @@ class Memo {
         this.bchAddr,
         'IPFS UPDATE'
       )
-      console.log(`txs: ${JSON.stringify(txs, null, 2)}`)
+      // console.log(`txs: ${JSON.stringify(txs, null, 2)}`)
 
       // If the array is empty, then return false.
       if (txs.length === 0) return false

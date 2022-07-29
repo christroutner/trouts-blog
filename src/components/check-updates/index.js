@@ -30,6 +30,7 @@ class CheckForUpdates extends React.Component {
   async getUpdatedUrl() {
     try {
       const path = window.location.pathname
+      console.log('path: ', path)
 
       await memo.initialize()
       const hash = await memo.findHash()
@@ -45,10 +46,12 @@ class CheckForUpdates extends React.Component {
       // Display the component if the IPFS hash is different from the one in the
       // URL bar.
       const url = window.location.href
-      if (!url.includes(hash)) {
+      console.log('url: ', url)
+
+      if (!url.includes(hash) && !url.includes('github') && !url.include(localhost)) {
         this.setState({
           // ipfsHashLink: `https://ipfs.io/ipfs/${hash}${path}`,
-          ipfsHashLink: `https://${hash}.ipfs.dweb.link`
+          ipfsHashLink: `https://${hash}.ipfs.dweb.link${path}`
         })
       }
     } catch (err) {
@@ -61,7 +64,7 @@ class CheckForUpdates extends React.Component {
       return (
         <p style={{ textAlign: 'center', border: 'solid red 5px' }}>
           <b>
-            Psst! There is a newer version of this page.{' '}
+            Psst! There is a newer version of this page on the Filecoin blockchain.{' '}
             <a href={this.state.ipfsHashLink}>Click here</a> to see it.
           </b>
         </p>
