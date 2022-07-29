@@ -65,7 +65,7 @@ This is an important phase for a few reasons:
 - It provides quick feedback to investors and management. If the team can't deliver, then everyone can save a lot of money, time, and emotions by identifying it as early as possible.
 - While this process can be humbling, it's incredibly educational for the developers involved.
 
-This phase revolves around the idea of the 'happy path'. The *happy path* is the path of least resistance from the Users standpoint. It the path they take from start to finish, assuming everything goes right.
+This phase revolves around the idea of the 'happy path'. The *happy path* is the path of least resistance from the Users standpoint. It's the path they take from start to finish, assuming everything goes right.
 
 That's when you know you're done with this phase of the development process. A developer (not a normal user) can create a video recording of them going through the happy path.
 
