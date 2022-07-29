@@ -117,4 +117,4 @@ I've never seen anyone else present the software development process quite the w
 
 If you are a senior developer, or a manager of software development teams, and you'd like to reach out, contact me via [Twitter](https://twitter.com/christroutner) or [Telegram](https://t.me/bch_js_toolkit). I'm keen to learn from other's experiences and to refine my own understanding of this great art form we call software development.
 
-If you are an entrepreneur looking for someone to help you develop your next great idea, I'm for hire! I can help you architecture your idea, find inexpensive remote developers, and manage those developers for you. [Here are the details](https://fullstack.cash/consulting).
+If you are an entrepreneur looking for someone to help you develop your next great idea, I'm for hire! I can help you architect your idea, find inexpensive remote developers, and manage those developers for you. [Here are the details](https://fullstack.cash/consulting).
