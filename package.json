@@ -15,8 +15,8 @@
     "pub": "node publish.js"
   },
   "dependencies": {
-    "@docusaurus/core": "2.0.0-beta.18",
-    "@docusaurus/preset-classic": "2.0.0-beta.18",
+    "@docusaurus/core": "^2.1.0",
+    "@docusaurus/preset-classic": "^2.1.0",
     "@mdx-js/react": "1.6.22",
     "bch-message-lib": "2.2.0",
     "clsx": "1.1.1",
