@@ -38,7 +38,7 @@ export default function Home() {
       description="A place for Trout to collect his thoughts.">
       <HomepageHeader />
       <main>
-        {/*<HomepageFeatures />*/}
+        <HomepageFeatures />
       </main>
     </Layout>
   );
