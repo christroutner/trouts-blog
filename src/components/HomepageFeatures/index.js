@@ -2,10 +2,14 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const url = window.location.href
+// Handle URL path if this is a page on GH pages.
 let prefix = ''
-if(url.includes('github')) {
-  prefix = '/trouts-blog'
+if(typeof window !== 'undefined') {
+  const url = window.location.href
+
+  if(url.includes('github')) {
+    prefix = '/trouts-blog'
+  }
 }
 
 const FeatureList = [
