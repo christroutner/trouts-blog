@@ -2,6 +2,16 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
+// Handle URL path if this is a page on GH pages.
+let prefix = ''
+if(typeof window !== 'undefined') {
+  const url = window.location.href
+
+  if(url.includes('github')) {
+    prefix = '/trouts-blog'
+  }
+}
+
 const FeatureList = [
   {
     title: 'Blog',
@@ -10,7 +20,7 @@ const FeatureList = [
         Where I capture transient ideas.
       </>
     ),
-    link: '/blog'
+    link: `${prefix}/blog`
   },
   {
     title: 'Research',
@@ -19,7 +29,7 @@ const FeatureList = [
         Long-running ideas and themes.
       </>
     ),
-    link: '/docs/intro'
+    link: `${prefix}/docs/intro`
   },
   {
     title: 'Career',
